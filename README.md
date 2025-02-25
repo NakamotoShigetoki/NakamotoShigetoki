@@ -1,5 +1,3 @@
-# 👨‍💻 MASSIMILIANO | BACKEND DEVELOPER
-
 <div align="center">
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Nakamoto%20Shigetoki&fontSize=50&fontColor=ffffff&animation=fadeIn)
